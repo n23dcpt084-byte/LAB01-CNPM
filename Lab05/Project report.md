@@ -59,7 +59,7 @@ git config --global user.name "Tên của bạn"
 git config --global user.email "email@example.com"
 
 # Thêm remote
-git remote add origin https://github.com/username/hotel-booking-system.git
+git remote add origin https://github.com/n23dcpt084-byte/LAB01-CNPM.git
 
 # Push code
 git add .
